@@ -94,3 +94,19 @@ ul{
       .eclipse_images img:nth-child(5) {
           transform: rotate(-85deg) translateY(-200px);
           }
+          .content{
+            position:relative;
+            width: 80%;
+  
+          }
+          .content #edit{
+              position:absolute;
+              right:-100px;
+              top:300px;
+              text-align: center;
+              font-size: 20PX;
+              
+          }
+          .content #edit>h3{
+  color: #faa916;
+          }
