@@ -1,0 +1,21 @@
+.header{
+    background-color:rgb(217, 223, 223);
+    float:inherit;
+    text-align:left;
+    margin:50px;
+    height: 900px;
+}
+.header>h1,h2,p{
+    margin-left: 170px;
+}
+span{
+    color: orange;
+}
+.header>button{
+    margin-left: 200px;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    border: none;
+}
