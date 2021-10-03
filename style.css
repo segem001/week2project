@@ -161,3 +161,15 @@ ul{
             margin-bottom: 40px;
             
         }
+        .content4{
+            width: 80%;
+            margin-left: 150px;
+            background-color: #FFD77C;
+        }
+        #Email,#send{
+            border-radius: 30px;
+            text-align: center;
+        }
+        #send{
+            background-color: green;
+        }
