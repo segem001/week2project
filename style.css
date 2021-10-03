@@ -19,3 +19,78 @@ span{
     border-radius: 20px;
     border: none;
 }
+ul{
+    list-style-type:none;
+    margin-left: 150px;
+    padding: 10px;
+    overflow: hidden;
+    text-align: center;
+ 
+ }
+ li{
+     float: left;
+     text-align: center;
+     padding: 15px;
+     
+ }
+ li a{
+     color: black;
+     padding: 10px;
+     text-align: left;
+     display: inline-block;
+     text-decoration: none;
+ 
+     }
+     #logo{
+         width: 70px;
+         height: 70px;
+     }
+     .ecl{
+        background-color: #649549;
+        border-bottom-left-radius: 900%;
+        border-bottom-right-radius: 50%;
+        position: absolute;
+        height: 75%;
+        width: 60%;
+        right: 50px;
+        top: 52px;
+        overflow: hidden;
+            }
+      .eclipse_images {
+        margin: -50px 20px 0px 0px;
+        width: 400px;
+        height: 400px;
+        border-top: 3px dashed gray;
+        border-right: 3px dashed gray;
+        border-left: 3px dashed gray;
+        border-radius: 50%;
+        position: absolute;
+        right: 20%;
+          }
+      .eclipse_images img {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin: -60px;
+          }
+      .eclipse_images #img_main{
+        height: 200px;
+        width: 200px;
+        margin:-120px 0px 0px -100px;
+        overflow:none;
+          }
+      .eclipse_images img:nth-child(1) {
+          transform: rotate(8deg) translateY(-200px);
+          }
+      .eclipse_images img:nth-child(2) {
+         transform: rotate(55deg) translateY(-200px);
+          }
+      .eclipse_images img:nth-child(3) {
+          transform: rotate(100deg) translateY(-200px);
+          }
+      .eclipse_images img:nth-child(4) {
+          transform: rotate(-40deg) translateY(-200px);
+          }
+      .eclipse_images img:nth-child(5) {
+          transform: rotate(-85deg) translateY(-200px);
+          }
