@@ -177,3 +177,19 @@ ul{
             text-align: center;
           
         }
+        .footer{
+            width: 80%;
+            margin-left: 140px;
+            background-color: #C9ECB5;
+            margin-top: 20px;
+        }
+        .instalogo{
+            float: right;
+        }
+        .footer input[type=submit]{
+            float: right;
+            margin: 100px 50px 0px 0px;
+            border: none;
+            padding: 10px;
+            color: white;
+        }
